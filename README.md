@@ -1,4 +1,4 @@
-##Adult Income Prediction (Machine_Learning.py)
+## 1.Adult Income Prediction (Machine_Learning.py)
 
 This project predicts whether a person's income exceeds \$50K/year based on census data using classification and regression techniques.
 
@@ -21,7 +21,7 @@ Logistic Regression performed the best with \~84% accuracy after PCA-based featu
 
 ---
 
-##CAPTCHA Recognition Using CNN (Captcha_CNN.py)
+## 2.CAPTCHA Recognition Using CNN (Captcha_CNN.py)
 
 A multi-character CAPTCHA recognition system using CNNs, SVMs, and Random Forests on image-based CAPTCHA data.
 
@@ -43,7 +43,7 @@ CNN outperformed traditional methods with highest sequence-level accuracy after 
 
 ---
 
-##Chatbot with NLP (Chatbot.py)
+## 3.Chatbot with NLP (Chatbot.py)
 
 An interactive Q\&A chatbot for Google Devices using NLP and intent classification.
 
@@ -61,7 +61,7 @@ Preloaded from an Excel file about Google device questions and answers.
 
 ---
 
-##FrozenLake Reinforcement Learning Agent (reinforcement_learning.py)
+## 4.FrozenLake Reinforcement Learning Agent (reinforcement_learning.py)
 
 Trains an agent to solve the FrozenLake-v1 environment using two different RL algorithms.
 
